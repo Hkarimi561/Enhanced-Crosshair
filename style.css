@@ -1,0 +1,13 @@
+.reticle-wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+}
+
+
+.reticle {
+  opacity: 100%;
+  width: 1.1vh;
+  height: 1.1vh;
+}
